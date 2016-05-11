@@ -1,5 +1,5 @@
 {
-    "name": "lanz/laravel-commentable",
+    "name": "readelobdill/laravel-commentable",
     "description": "Allows for threaded comments to be added to multiple and different models.",
     "keywords": ["laravel", "commentable", "comment", "threaded", "nested set", "laravel 4", "laravel 5"],
     "license": "MIT",
